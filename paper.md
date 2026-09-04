@@ -1,4 +1,4 @@
-# Who Governs AI While It Is Thinking
+# Who Governs AI While It Is Thinking?
 ## Persistent Reference Infrastructure and the Economic Wall of Accuracy
 
 
