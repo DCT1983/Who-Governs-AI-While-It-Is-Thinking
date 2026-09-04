@@ -1,6 +1,6 @@
-WWho Governs AI While It Is Thinking
-ePersistent Reference Infrastructure and the Economic Wall of Accuracy
-
+# Who Governs AI While It Is Thinking
+## Persistent Reference Infrastructure and the Economic Wall of Accuracy
+**Darren Tindale Independent Researcher Essay September 1, 2026**
 “Accuracy summarizes performance across prior cases. Residual risk governs the next operation.”
 
 <table>
