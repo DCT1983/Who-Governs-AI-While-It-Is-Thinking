@@ -34,7 +34,7 @@ actions can be evaluated before consequential commitment.
 
 [Read the full paper in markdown](paper.md)
 [Read the PDF](./Who%20Governs%20AI%20While%20it%20is%20Thinking.pdf)
-[Archival version and DOI](https://doi.org/10.5281/zenodo.21614063))
+[Archival version and DOI](https://doi.org/10.5281/zenodo.21614063)
 
 ## Core principle
 
