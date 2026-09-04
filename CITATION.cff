@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite the paper as below."
+
+authors:
+  - family-names: "Tindale"
+    given-names: "Darren"
+
+title: "Who Governs AI While It Is Thinking?"
+date-released: 2026-09-01
+doi: "10.5281/zenodo.21614063"
+
+repository-artifact: "https://github.com/DCT1983/Who-Governs-AI-While-It-Is-Thinking"
+
+keywords:
+  - "artificial intelligence"
+  - "AI governance"
+  - "execution-time governance"
+  - "runtime governance"
+  - "Persistent Reference Infrastructure"
+  - "Economic Wall of Accuracy"
+  - "agentic AI"
+  - "AI safety"
+  - "execution gating"
+  - "continuing authorization"
+
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Tindale"
+      given-names: "Darren"
+  title: "Who Governs AI While It Is Thinking? Persistent Reference Infrastructure and the Economic Wall of Accuracy"
+  year: 2026
+  doi: "10.5281/zenodo.21614063"
