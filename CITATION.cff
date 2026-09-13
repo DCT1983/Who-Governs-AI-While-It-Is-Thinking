@@ -6,8 +6,8 @@ authors:
     given-names: "Darren"
 
 title: "Who Governs AI While It Is Thinking?"
-date-released: 2026-09-01
-doi: "10.5281/zenodo.21614063"
+date-released: 2026-09-11
+doi: "10.5281/zenodo.22716251"
 
 repository-artifact: "https://github.com/DCT1983/Who-Governs-AI-While-It-Is-Thinking"
 
@@ -30,4 +30,4 @@ preferred-citation:
       given-names: "Darren"
   title: "Who Governs AI While It Is Thinking? Persistent Reference Infrastructure and the Economic Wall of Accuracy"
   year: 2026
-  doi: "10.5281/zenodo.21614063"
+  doi: "10.5281/zenodo.22716251"
